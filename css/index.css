@@ -616,7 +616,7 @@ button:hover {
     opacity: 100;
     filter: blur(0);
     transform: translateX(0);
-    transition: all 1.5s;
+    transition: all 0.8s;
 }
 
 .buttondownload {
